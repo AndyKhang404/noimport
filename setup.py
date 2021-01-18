@@ -5,12 +5,14 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="noimport-AndyKhang404", # Replace with your own username
-    version="0.0.1",
+    version="0.0.1.post1",
     author="Andy Khang",
     author_email="andykhang404@gmail.com",
-    description="No more imports :D",
+    description="A simple package to prevent the abusive use of 'import' statement in Python.",
+    keywords="no import imp noimport suicide",
     long_description=long_description,
     long_description_content_type="text/markdown",
+    license="MIT",
     url="https://github.com/AndyKhang404/noimport",
     packages=setuptools.find_packages(),
     classifiers=[

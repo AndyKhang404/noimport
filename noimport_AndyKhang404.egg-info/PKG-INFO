@@ -1,25 +1,26 @@
 Metadata-Version: 2.1
 Name: noimport-AndyKhang404
-Version: 0.0.1
-Summary: No more imports :D
+Version: 0.0.1.post1
+Summary: A simple package to prevent the abusive use of 'import' statement in Python.
 Home-page: https://github.com/AndyKhang404/noimport
 Author: Andy Khang
 Author-email: andykhang404@gmail.com
-License: UNKNOWN
+License: MIT
 Description: # noimport v0.0.1
-        A simple package to prevent the abusive use of 'import' statement in Python.
+        A simple package to prevent the abusive use of the `import` statement in Python.
         ### Installation
         To install, just run:
         ```
-        pip install noimport
+        python3 -m pip install noimport
         ```
         ### Usage
         Just add this into the start of your `.py` file:
         ```
         import noimport
         ```
-        :smiling_imp: Let see how far can you go without importing those modules and packages :smiling_imp:
+        Let see how far can you go without importing those modules and packages :smiling_imp::smiling_imp::smiling_imp: 
         
+Keywords: no import imp noimport suicide
 Platform: UNKNOWN
 Classifier: Development Status :: 4 - Beta
 Classifier: Intended Audience :: Developers
