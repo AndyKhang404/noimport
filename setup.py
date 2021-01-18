@@ -4,8 +4,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="noimport-AndyKhang404", # Replace with your own username
-    version="0.0.1.post1",
+    name="noimport", # Replace with your own username
+    version="0.0.1",
     author="Andy Khang",
     author_email="andykhang404@gmail.com",
     description="A simple package to prevent the abusive use of 'import' statement in Python.",

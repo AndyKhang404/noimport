@@ -1,6 +1,0 @@
-README.md
-setup.py
-noimport_AndyKhang404.egg-info/PKG-INFO
-noimport_AndyKhang404.egg-info/SOURCES.txt
-noimport_AndyKhang404.egg-info/dependency_links.txt
-noimport_AndyKhang404.egg-info/top_level.txt
