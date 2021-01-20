@@ -14,7 +14,7 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     license="MIT",
     url="https://github.com/AndyKhang404/noimport",
-    packages=setuptools.find_packages(),
+    py_modules=["noimport"],
     classifiers=[
 		"Development Status :: 5 - Production/Stable",
 		"Intended Audience :: Developers",

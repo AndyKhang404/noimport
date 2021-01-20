@@ -1,13 +1,13 @@
 # noimport v0.0.1
 A simple package to prevent the abusive use of the `import` statement in Python.
-## Installation
+### Installation
 To install, just run:
 ```
 pip install noimport
 ```
-## Usage
+### Usage
 After importing the `noimport` package, any attempts of importation would result in an error
-```
+```python
 >>> import noimport
 >>> import time			# Built in modules won't work, ...
 Traceback (most recent call last):
@@ -24,7 +24,8 @@ Traceback (most recent call last):
   File "<stdin>", line 1, in <module>
 ModuleNotFoundError: No module named 'PIL'
 ```
-## License
-This project is licensed under the [MIT license](https://github.com/AndyKhang404/noimport/blob/main/LICENSE)
-
-***Python without modules and packages, how bad can it be?***
+### License
+This project is licensed under the [MIT license](https://github.com/AndyKhang404/noimport/blob/main/LICENSE)\
+\
+\
+***Python without modules and packages, how bad can it be?*** :smiling_imp::smiling_imp::smiling_imp:
