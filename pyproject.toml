@@ -7,15 +7,15 @@ authors = [
 ]
 license = "MIT"
 readme = "README.md"
-python = "^3.4"
+python = ">=3.4"
 homepage = "https://github.com/AndyKhang404/noimport"
 repository = "https://github.com/AndyKhang404/noimport"
 documentation = "https://github.com/AndyKhang404/noimport"
 
-keywords = ["no","import","imp","noimport","suicide"]
+keywords = ["no","import","noimport","suicide"]
 
 classifiers = [
-    "Development Status :: 4 - Beta",
+    "Development Status :: 5 - Production/Stable",
 	"Intended Audience :: Developers",
     "Programming Language :: Python :: 3 :: Only",
 	"Programming Language :: Python :: 3.4",
